@@ -1,0 +1,7 @@
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe.config
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.pdb
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.csprojAssemblyReference.cache
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.csproj.CoreCompileInputs.cache
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.exe
+C:\Users\psa\source\repos\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.pdb
