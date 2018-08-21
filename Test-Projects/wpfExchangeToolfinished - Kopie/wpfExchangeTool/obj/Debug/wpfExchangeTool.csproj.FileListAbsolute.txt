@@ -1,0 +1,17 @@
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\bin\Debug\wpfExchangeTool.exe.config
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\bin\Debug\wpfExchangeTool.exe
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\bin\Debug\wpfExchangeTool.pdb
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\MainWindow.g.cs
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\App.g.cs
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool_MarkupCompile.cache
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool_MarkupCompile.lref
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\MainWindow.baml
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.g.resources
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.Properties.Resources.resources
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.csproj.GenerateResource.cache
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.csproj.CoreCompileInputs.cache
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.exe
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.pdb
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\App.baml
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\bin\Debug\System.Management.Automation.dll
+C:\Users\psa\source\repos\wpfExchangeTool\wpfExchangeTool\obj\Debug\wpfExchangeTool.csproj.CopyComplete
